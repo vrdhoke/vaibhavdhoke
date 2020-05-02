@@ -102,7 +102,7 @@ let resumeData = {
     "portfolio":[
       {
         "name":"The Adda",
-        "description":"Discover Great Events or Create your own",
+        "description":"The Adda is a platform used to organize online groups that host in-person events for people with similar interests",
         "imgurl":"images/portfolio/event.png"
       },
       {
@@ -115,7 +115,7 @@ let resumeData = {
       {
         "name":"NEWS",
         "description":"News website using MERN stack which enables users to read real-time news feed from around the world based on user’s interest, designed user interface with ReactJS, Bootstrap, HTML5, CSS3 and JavaScript",  
-        "imgurl":"images/portfolio/judah.jpg"
+        "imgurl":"images/portfolio/news.png"
       },
       {
         "name":"Virtual Library System",

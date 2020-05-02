@@ -816,8 +816,8 @@ call-to-action .button {
 
 #contact .profile-pic {
    position: relative;
-   width: 250px;
-   height: 250px;
+   width: 200px;
+   height: 200px;
    border-radius: 100%;
 }
 #contact .section-head { margin-bottom: 42px; }
