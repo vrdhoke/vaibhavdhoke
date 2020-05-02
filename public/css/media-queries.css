@@ -313,7 +313,11 @@
       width: 100%;
       margin-left: 0;
    }
-
+   #contact .profile-pic {
+      width: 100px;
+      height: 100px;
+      margin-left: 300px;
+   }
 
    /* footer
    ------------------------------------------------------------------------ */

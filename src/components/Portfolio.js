@@ -13,12 +13,12 @@ export default class Porfolio extends Component {
               return(
                 <a href={item.imgurl} className="text-secondary">
                 <div className="columns portfolio-item">
-                  <div>
+                  <div className="item-wrap">
                    
                       {/* <img src={`${item.imgurl}`} className="item-img"/> */}
                       <img src={item.imgurl} className="item-img"/>
                       <div className="overlay">
-                        <div className="text-secondary">
+                        <div className="text-secondary portfolio-item-meta">
                           <h5>{item.name}</h5>
                           <p>{item.description}</p>
                         </div>
