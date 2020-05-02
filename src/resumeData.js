@@ -28,17 +28,17 @@ let resumeData = {
     "education":[
       {
         "UniversityName":"Northeastern University",
-        "specialization":"Master of Science",
+        "specialization":"Master of Science in Information System",
         "MonthOfPassing":"Aug",
         "YearOfPassing":"2021",
-        "Achievements":"Some Achievements"
+        "Achievements":"My coursework as a graduate student at Northeastern University has exposed me to a range of Software Engineering concepts. My solid knowledge of computer software design ,object oriented principles and product development has given me the foundation to succeed in the software industry. Skills in creating use cases and project planning has benefited both clients and past employers and enhanced my ability to provide creative thinking and problem solving. I have developed few small scale web applications in my course. I am quite proficient in Java, JavaScript and have developed applications in React as well. I have developed real time News application as my capstone project using MERN stack. "
       },
       {
-        "UniversityName":"VJTI Mumbai",
-        "specialization":"Bachelor of Technology",
+        "UniversityName":"Veermata Jijabai Technological Institute(VJTI) Mumbai",
+        "specialization":"Bachelor of Technology in Information Technology",
         "MonthOfPassing":"May",
         "YearOfPassing":"2015",
-        "Achievements":"Some Achievements"
+        "Achievements":"At the end of the Information Technology program at Veermata Jijabai Technological Institute, I could use knowledge to write programs and integrate them with the hardware/software products in the domains of embedded systems, data Science, networking and web technology and participate in planning and implement solutions to cater to business – specific requirements displaying team dynamics and professional ethics."
       }
     ],
     "work":[
@@ -47,8 +47,8 @@ let resumeData = {
         "specialization":"Technology Analyst",
         "MonthOfLeaving":"July",
         "YearOfLeaving":"2019",
-        "Achievements":"Developed dashboard for incident monitoring as part of Alcon (Novartis) team in Spring MVC Java Framework"
-
+        "Achievements":`• Implemented contract lifecycle management for complete lifecycle of master agreement and contract documents in an organization\n 
+        \n• Developed scripts for automating sourcing and procurement contract processes using JavaBean Shell Scripting`
       },
       {
         "CompanyName":"Infosys",
@@ -72,9 +72,9 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/coffee.jpg"
+        "name":"The Adda",
+        "description":"Discover Great Events or Create your own",
+        "imgurl":"images/portfolio/event.png"
       },
       {
         "name":"project2",
@@ -94,12 +94,12 @@ let resumeData = {
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Vaibhav is a cheerful, hardworking person. I had the opportunity to work with him in a same team at Infosys and he would always encourage people around him and built a nice rapport with teammates. He is very strong technically and comes up with unconventional solutions to the complex business requirements. He is equally good at single handedly managing multiple projects.",
+        "name":"Nizam Syed, SAP Consultant/Infosys"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"One thing which always stand out for Vaibhav is his willingness to take the next challenge no matter which technology he works on. Thanks for the great work done for Novartis/Infosys. ",
+        "name":"Nabheet Madan, Project Manager/Infosys"
       }
     ]
   }
