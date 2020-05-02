@@ -17,6 +17,11 @@ export default class About extends Component {
                <h2>About Me</h2>
                <p>
                {
+                 resumeData.aboutme1
+               }
+               </p>
+               <p>
+               {
                  resumeData.aboutme
                }
                </p>
@@ -24,7 +29,7 @@ export default class About extends Component {
                <div className="row">
 
                   <div className="columns contact-details">
-
+                  <br></br>
                   <h2>Contact Details</h2>
                   <p className="address">
        						<span>{resumeData.name}</span>
@@ -33,7 +38,8 @@ export default class About extends Component {
                      {resumeData.address}
                     </span>
                     <br></br>
-                    <span>{resumeData.website}</span>
+                    
+                    <span><a href={resumeData.website} target="_blank">Linkedin Profile</a></span>
        					   </p>
                   </div>
                </div>

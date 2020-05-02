@@ -15,13 +15,18 @@ export default class ContactUs extends Component {
             <aside className="eigth columns footer-widgets">
               <div className="widget">
                 <h4>Linked in :
-                  {resumeData.linkedinId}
+                <a href={resumeData.linkedinId}> {resumeData.linkedinId}</a>
                 </h4>
-                <h4>Mobile Number :
-                  +1 857-269-4532
+                <h4>Mobile No :
+                <a href="tel:+18572694532"> +1-857-269-4532</a>
                 </h4>
-                <h4>Email :
-                  vaibhavdhoke1@gmail.com
+                <h4>Email :    
+                <a href="mailto: vaibhavdhoke1@gmail.com"> vaibhavdhoke1@gmail.com</a>
+                </h4>
+                <h4>Address :    
+                   3110 Washington Street, Unit 2<br></br>
+                  &emsp;&emsp;&emsp;&emsp;&emsp; Boston, Massachusetts<br></br>
+                  &emsp;&emsp;&emsp;&emsp;&emsp; Pin :02119,USA
                 </h4>
               </div>
             </aside>

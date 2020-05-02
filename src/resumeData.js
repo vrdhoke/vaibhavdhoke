@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Full Stack Developer",
     "linkedinId":"https://www.linkedin.com/in/vaibhav-dhoke/",
     "skypeid": "Your skypeid",
-    "roleDescription": "An enthusiastic and highly motivated software professional with over 4-years of software development experience facilitating cutting edge engineering solutions with a diverse skill set and creative drive to software application development.",
+    "roleDescription": "An Enthusiastic and Highly Motivated Software Professional with over 4-Years of Software Development experience facilitating cutting Edge Engineering Solutions with a Diverse skill set and creative drive to Software Application Development.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -20,14 +20,22 @@ let resumeData = {
           "name":"skype",
           "url":"https://twitter.com/Vaibhav_Dhoke1",
           "className":"fa fa-twitter"
+        },
+        {
+          "name":"facebook",
+          "url":"https://www.facebook.com/dhoke.vaibhav58",
+          "className":"fa fa-facebook"
         }
+
       ],
-    "aboutme":"I am currently pursuing Master of Science in Information Technology at Northeastern University. I am a experienced Full Stack Web Developer. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "aboutme":"Currently pursuing a Master of Science in Information Systems from Northeastern University with an emphasis on Application Engineering Development, Web Design, Program Structures, and Algorithms.",
+    "aboutme1":"I believe there is no end to the number of skills one can develop and hence I keep learning and developing through every project, task and people I am associated with.",
     "address":"United States",
     "website":"https://www.linkedin.com/in/vaibhav-dhoke/",
     "education":[
       {
         "UniversityName":"Northeastern University",
+        "subjects":"Relevant Courses: Application Engineering and Development, Web Design, Data Structure and Algorithms, Web Tools",
         "specialization":"Master of Science in Information System",
         "MonthOfPassing":"Aug",
         "YearOfPassing":"2021",
@@ -35,40 +43,61 @@ let resumeData = {
       },
       {
         "UniversityName":"Veermata Jijabai Technological Institute(VJTI) Mumbai",
+        "subjects":"Relevant Courses: Advanced Database Management, Cloud Computing, Data Mining, Computer Networks",
         "specialization":"Bachelor of Technology in Information Technology",
         "MonthOfPassing":"May",
         "YearOfPassing":"2015",
-        "Achievements":"At the end of the Information Technology program at Veermata Jijabai Technological Institute, I could use knowledge to write programs and integrate them with the hardware/software products in the domains of embedded systems, data Science, networking and web technology and participate in planning and implement solutions to cater to business – specific requirements displaying team dynamics and professional ethics."
+        "Achievements":"At the end of the Information Technology program at Veermata Jijabai Technological Institute, I could write programs and integrate them with the hardware/software products in the domains of embedded systems, data Science, networking and web technology and participate in planning and implement solutions to cater to business – specific requirements displaying team dynamics and professional ethics."
       }
     ],
     "work":[
       {
         "CompanyName":"Infosys",
+        "location":"Pune, India",
         "specialization":"Technology Analyst",
         "MonthOfLeaving":"July",
         "YearOfLeaving":"2019",
-        "Achievements":`• Implemented contract lifecycle management for complete lifecycle of master agreement and contract documents in an organization\n 
-        \n• Developed scripts for automating sourcing and procurement contract processes using JavaBean Shell Scripting`
+        "Achievements":`• Implemented contract lifecycle management for complete lifecycle of master agreement and contract documents in an organization\n `,
+        "Achievements1":`• Developed dashboard for incident monitoring as part of Alcon (Novartis) team in Spring MVC Java Framework`,
+        "Achievements2":`• Incorporated security domain functional requirements using Agile development cycle in client website thereby
+        improving overall performance by 34% in deployments`,
+        "Achievements3":`• Mentored 15 new associates through training sessions and monitoring progress for an initial period of probation`
       },
       {
         "CompanyName":"Infosys",
+        "location":"Hyderabad, India",
         "specialization":"Senior Systems Engineer",
         "MonthOfLeaving":"December",
         "YearOfLeaving":"2017",
-        "Achievements":"Some Achievements"
+        "Achievements":"• Engaged in estimating, planning and refactoring software development projects and related tasks (Proof of Concept)",
+        "Achievements1":`• Gained firsthand experience with Node, React/Redux, Express, APIs, Git, Data Structures, Algorithms via
+        projects code reviews and pair programming.`,
+        "Achievements2":`• Incorporated smooth automation into repetitive business tasks and lengthy processes using Python`,
+        "Achievements3":`• Performed unit testing, regression testing and prepared comprehensive technical specification for critical SAP objects`
+
       }
     ],
-    "skillsDescription":"My skills on the scale",
+    "skillsDescription":"Programming Languages",
     "skills":[
       {
         "skillname":"JAVA"
       },
       {
-        "skillname":"CSS"
+        "skillname":"React"
       },
       {
-        "skillname":"React"
+        "skillname":"jquery"
+      },
+      {
+        "skillname":"html5"
+      },
+      {
+        "skillname":"Javascript"
+      },
+      {
+        "skillname":"angular"
       }
+
     ],
     "portfolio":[
       {
@@ -78,7 +107,9 @@ let resumeData = {
       },
       {
         "name":"Smart Organic Farming",
-        "description":"Organic farming made easy",
+        "description":"Implemented an efficient and accurate system to encourage the organic farming and improving the living conditions of"+
+        "farmers community by providing the institutional finance and required resources required for organic farming at right"+
+        "time",
         "imgurl":"images/portfolio/AED.png"
       },
       {
@@ -87,8 +118,9 @@ let resumeData = {
         "imgurl":"images/portfolio/judah.jpg"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
+        "name":"Virtual Library System",
+        "description":"Developed an online library system that enables users to upload, download e-books, presentations and videos, create"+
+        "forums and courses, and system generated suggestions",
         "imgurl":"images/portfolio/coffee.jpg"
       }
     ],
