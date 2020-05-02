@@ -659,7 +659,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(../images/testimonials.jpg) no-repeat center center;
+   background: #1F1F1F url(../images/test.jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
@@ -812,6 +812,13 @@ call-to-action .button {
    padding-top: 96px;
    padding-bottom: 102px;
    color: #636363;
+}
+
+#contact .profile-pic {
+   position: relative;
+   width: 250px;
+   height: 250px;
+   border-radius: 100%;
 }
 #contact .section-head { margin-bottom: 42px; }
 
