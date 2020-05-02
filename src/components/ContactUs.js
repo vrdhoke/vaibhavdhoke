@@ -12,7 +12,7 @@ export default class ContactUs extends Component {
             </div>
           </div>
           <div className="row">
-            <aside className="eigth columns footer-widgets">
+            <aside className="six columns footer-widgets">
               <div className="widget">
                 <h4>Linked in :
                 <a href={resumeData.linkedinId}> {resumeData.linkedinId}</a>
@@ -28,8 +28,18 @@ export default class ContactUs extends Component {
                   &emsp;&emsp;&emsp;&emsp;&emsp; Boston, Massachusetts<br></br>
                   &emsp;&emsp;&emsp;&emsp;&emsp; Pin :02119,USA
                 </h4>
+                
+
+                
+
+                
               </div>
             </aside>
+            <div className="four columns">
+
+                <img className="profile-pic"  src="images/photo.jpeg" alt="" />
+
+                </div>
           </div>
         </section>
         );

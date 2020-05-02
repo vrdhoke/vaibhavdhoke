@@ -34,8 +34,8 @@ let resumeData = {
     "website":"https://www.linkedin.com/in/vaibhav-dhoke/",
     "education":[
       {
-        "UniversityName":"Northeastern University",
-        "subjects":"Relevant Courses: Application Engineering and Development, Web Design, Data Structure and Algorithms, Web Tools",
+        "UniversityName":"Northeastern University ,Boston",
+        "subjects":"Relevant Courses: Application Engineering and Development, Web Design and User Experience, Program Structure and Algorithms, Web Tools",
         "specialization":"Master of Science in Information System",
         "MonthOfPassing":"Aug",
         "YearOfPassing":"2021",
@@ -126,13 +126,18 @@ let resumeData = {
     ],
     "testimonials":[
       {
+        "description":"Vaibhav's technical knowledge combined with his perpetual enthusiasm and energetic attitude make him stand out among his peer. He is a great person to work with. He not only delivers his own tasks but also influences others around him. ",
+        "name":"Matjaz Jenezic, Solution Design Manager at Novartis"
+      },
+      {
         "description":"Vaibhav is a cheerful, hardworking person. I had the opportunity to work with him in a same team at Infosys and he would always encourage people around him and built a nice rapport with teammates. He is very strong technically and comes up with unconventional solutions to the complex business requirements. He is equally good at single handedly managing multiple projects.",
-        "name":"Nizam Syed, SAP Consultant/Infosys"
+        "name":"Nizam Syed, SAP Consultant at Infosys"
       },
       {
         "description":"One thing which always stand out for Vaibhav is his willingness to take the next challenge no matter which technology he works on. Thanks for the great work done for Novartis/Infosys. ",
-        "name":"Nabheet Madan, Project Manager/Infosys"
+        "name":"Nabheet Madan, Project Manager at Infosys"
       }
+      
     ]
   }
   
