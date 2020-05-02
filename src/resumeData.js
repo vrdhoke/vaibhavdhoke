@@ -1,59 +1,60 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
+    "imagebaseurl":"https://www.linkedin.com/in/vaibhav-dhoke/",
+    "name": "Vaibhav Dhoke",
+    "role": "Full Stack Developer",
+    "linkedinId":"https://www.linkedin.com/in/vaibhav-dhoke/",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "An enthusiastic and highly motivated software professional with over 4-years of software development experience facilitating cutting edge engineering solutions with a diverse skill set and creative drive to software application development.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/vaibhav-dhoke/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/vrdhoke",
           "className":"fa fa-github"
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"https://twitter.com/Vaibhav_Dhoke1",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I am currently pursuing Master of Science in Information Technology at Northeastern University. I am a experienced Full Stack Web Developer. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "address":"United States",
+    "website":"https://www.linkedin.com/in/vaibhav-dhoke/",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
+        "UniversityName":"Northeastern University",
+        "specialization":"Master of Science",
         "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
+        "YearOfPassing":"2021",
         "Achievements":"Some Achievements"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
+        "UniversityName":"VJTI Mumbai",
+        "specialization":"Bachelor of Technology",
+        "MonthOfPassing":"May",
+        "YearOfPassing":"2015",
         "Achievements":"Some Achievements"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Infosys",
+        "specialization":"Technology Analyst",
+        "MonthOfLeaving":"July",
+        "YearOfLeaving":"2019",
+        "Achievements":"Developed dashboard for incident monitoring as part of Alcon (Novartis) team in Spring MVC Java Framework"
+
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
+        "CompanyName":"Infosys",
+        "specialization":"Senior Systems Engineer",
+        "MonthOfLeaving":"December",
+        "YearOfLeaving":"2017",
         "Achievements":"Some Achievements"
       }
     ],
