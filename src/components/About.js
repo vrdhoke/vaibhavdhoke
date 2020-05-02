@@ -12,7 +12,7 @@ export default class About extends Component {
 
             </div>
 
-            <div className="nine columns main-col">
+            <div className="nine columns">
 
                <h2>About Me</h2>
                <p>
