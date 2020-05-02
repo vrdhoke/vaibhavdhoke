@@ -58,7 +58,7 @@ let resumeData = {
         "Achievements":"Some Achievements"
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"My skills on the scale",
     "skills":[
       {
         "skillname":"JAVA"
@@ -77,14 +77,14 @@ let resumeData = {
         "imgurl":"images/portfolio/event.png"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/coffee.jpg"
+        "name":"Smart Organic Farming",
+        "description":"Organic farming made easy",
+        "imgurl":"images/portfolio/AED.png"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/coffee.jpg"
+        "name":"NEWS",
+        "description":"News website using MERN stack which enables users to read real-time news feed from around the world based on user’s interest, designed user interface with ReactJS, Bootstrap, HTML5, CSS3 and JavaScript",  
+        "imgurl":"images/portfolio/judah.jpg"
       },
       {
         "name":"project4",
