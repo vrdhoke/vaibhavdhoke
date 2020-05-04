@@ -10,7 +10,7 @@ let resumeData = {
           "name":"linkedin",
           "url":"https://www.linkedin.com/in/vaibhav-dhoke/",
           "className":"fa fa-linkedin"
-        },
+        }, 
         {
           "name":"github",
           "url":"https://github.com/vrdhoke",
@@ -102,8 +102,7 @@ let resumeData = {
     "portfolio":[
       {
         "name":"DAIMLER AG",
-        "description":"Developed an online library system that enables users to upload, download e-books, presentations and videos, create"+
-        "forums and courses, and system generated suggestions",
+        "description":"Designed scalable, reliable and secure software architecture powering Internet Brands’s SaaS-based technology platform using a combination of Java, Node.JS, React.js and other development languages.",
         "imgurl":"images/portfolio/daimler.jpg",
         "link":"https://www.daimler.com/"
       },
