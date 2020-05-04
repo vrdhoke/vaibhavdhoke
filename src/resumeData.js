@@ -101,28 +101,45 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"The Adda",
-        "description":"The Adda is a platform used to organize online groups that host in-person events for people with similar interests",
-        "imgurl":"images/portfolio/event.png"
+        "name":"DAIMLER AG",
+        "description":"Developed an online library system that enables users to upload, download e-books, presentations and videos, create"+
+        "forums and courses, and system generated suggestions",
+        "imgurl":"images/portfolio/daimler.jpg",
+        "link":"https://www.daimler.com/"
+      },
+      {
+        "name":"Novartis",
+        "description":`Designed and implemented BPM based Portal solutions for Supplier information management.Implemented contract lifecycle management for complete lifecycle of master agreement and contract documents for Novartis. Integrated DocuSign in-order to digitize the Master Agreement and Contract Document’s manual signature process`,
+        "imgurl":"images/portfolio/novartis.png",
+        "link":"https://www.novartis.com/"
       },
       {
         "name":"Smart Organic Farming",
         "description":"Implemented an efficient and accurate system to encourage the organic farming and improving the living conditions of"+
         "farmers community by providing the institutional finance and required resources required for organic farming at right"+
         "time",
-        "imgurl":"images/portfolio/AED.png"
+        "imgurl":"images/portfolio/organic.jpg",
+        "link":"https://github.com/vrdhoke/Smart-Organic-Farming"
       },
       {
         "name":"NEWS",
         "description":"News website using MERN stack which enables users to read real-time news feed from around the world based on user’s interest, designed user interface with ReactJS, Bootstrap, HTML5, CSS3 and JavaScript",  
-        "imgurl":"images/portfolio/news.png"
+        "imgurl":"images/portfolio/news.png",
+        "link":"https://github.com/vrdhoke/Realtime-NEWS-Application-using-MERN-Stack"
+      },
+      {
+        "name":"The Adda",
+        "description":"The Adda is a platform used to organize online groups that host in-person events for people with similar interests",
+        "imgurl":"images/portfolio/event.png"
       },
       {
         "name":"Virtual Library System",
         "description":"Developed an online library system that enables users to upload, download e-books, presentations and videos, create"+
         "forums and courses, and system generated suggestions",
-        "imgurl":"images/portfolio/coffee.jpg"
+        "imgurl":"images/portfolio/lib.jpg"
       }
+      
+
     ],
     "testimonials":[
       {
