@@ -55,8 +55,8 @@ let resumeData = {
         "CompanyName":"Infosys",
         "location":"Pune, India",
         "specialization":"Technology Analyst",
-        "MonthOfLeaving":"July",
-        "YearOfLeaving":"2019",
+        "MonthOfLeaving":"January 2018 - ",
+        "YearOfLeaving":"July 2019",
         "Achievements":`• Implemented contract lifecycle management for complete lifecycle of master agreement and contract documents in an organization\n `,
         "Achievements1":`• Developed dashboard for incident monitoring as part of Alcon (Novartis) team in Spring MVC Java Framework`,
         "Achievements2":`• Incorporated security domain functional requirements using Agile development cycle in client website thereby
@@ -67,8 +67,8 @@ let resumeData = {
         "CompanyName":"Infosys",
         "location":"Hyderabad, India",
         "specialization":"Senior Systems Engineer",
-        "MonthOfLeaving":"December",
-        "YearOfLeaving":"2017",
+        "MonthOfLeaving":"August 2015 - ",
+        "YearOfLeaving":"December 2017",
         "Achievements":"• Engaged in estimating, planning and refactoring software development projects and related tasks (Proof of Concept)",
         "Achievements1":`• Gained firsthand experience with Node, React/Redux, Express, APIs, Git, Data Structures, Algorithms via
         projects code reviews and pair programming.`,

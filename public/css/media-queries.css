@@ -255,6 +255,12 @@
    /* Portfolio Section
    /* ----------------------------------------------------------------- */
    #portfolio-wrapper .columns { margin-bottom: 40px; }
+   .portfolio-item .item-wrap img {
+      vertical-align: bottom;
+      height: 230px;
+      width: 700px;
+      border-radius: 3%;
+   }
    .popup-modal {	max-width: 85%; }
 
 
