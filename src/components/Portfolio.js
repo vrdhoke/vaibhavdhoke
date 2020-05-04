@@ -16,7 +16,7 @@ export default class Porfolio extends Component {
                   <div className="item-wrap">
                    
                       {/* <img src={`${item.imgurl}`} className="item-img"/> */}
-                      <img style={{color:'#fff', height:'300px',width:'300px'}} src={item.imgurl}/>
+                      <img style={{color:'#fff', height:'300px',width:'350px'}} src={item.imgurl}/>
                       <div className="overlay">
                         <div className="text-secondary portfolio-item-meta">
                           <h5>{item.name}</h5>
