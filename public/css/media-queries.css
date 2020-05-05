@@ -203,14 +203,14 @@
 
    /* header social links */
    header .social {
-      margin: 18px 0 24px 0;
+      margin: 18px 0 90px 0;
       font-size: 24px;
       line-height: 36px;      
    }
-   header .social li { margin: 0 10px; }
+   header .social li { margin: 0px 15px; }
 
     /* scrolldown link */
-   header .scrolldown { display: none; }
+   header .scrolldown { display: block; }
 
 
    /* About Section
