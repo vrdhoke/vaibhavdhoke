@@ -26,7 +26,7 @@ export default class ContactUs extends Component {
                 <h4 style={{color:'#fff', fontFamily:'Verdana'}}>Address :    
                    3110 Washington Street, Unit 2<br></br>
                   &emsp;&emsp;&emsp;&emsp;&emsp;Boston, Massachusetts<br></br>
-                  &emsp;&emsp;&emsp;&emsp;&emsp;Pin :02119,USA
+                  &emsp;&emsp;&emsp;&emsp;&emsp;Pin : 02119, USA
                 </h4>
                 
 
