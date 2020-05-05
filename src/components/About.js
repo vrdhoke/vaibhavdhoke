@@ -30,7 +30,7 @@ export default class About extends Component {
 
                   <div className="columns contact-details">
                   <br></br>
-                  <h2><a className="smoothscroll" href="#contact">Contact<i className="icon-down-circle"></i></a></h2>
+                  <h2><a className="smoothscroll" href="#contact">Contact Me <i className="icon-down-circle"></i></a></h2>
                   {/* <p className="address">
        						<span>{resumeData.name}</span>
                      <br></br>
