@@ -25,6 +25,11 @@ let resumeData = {
           "name":"facebook",
           "url":"https://www.facebook.com/dhoke.vaibhav58",
           "className":"fa fa-facebook"
+        },
+        {
+          "name":"Instagram",
+          "url":"https://www.instagram.com/d.h.o.k.e/",
+          "className":"fa fa-instagram"
         }
 
       ],
