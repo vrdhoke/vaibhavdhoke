@@ -37,7 +37,7 @@ export default class ContactUs extends Component {
             </aside>
             <div className="three columns">
 
-                <img className="profile-pic"  src="images/photo.jpeg" alt="" />
+                <img className="profile-pic"  src="images/photo.jpg" alt="" />
 
                 </div>
           </div>
