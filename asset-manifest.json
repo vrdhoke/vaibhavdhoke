@@ -1,13 +1,13 @@
 {
-  "main.css": "/vaibhavdhoke/static/css/main.11bcb9bc.chunk.css",
-  "main.js": "/vaibhavdhoke/static/js/main.582102d1.chunk.js",
-  "main.js.map": "/vaibhavdhoke/static/js/main.582102d1.chunk.js.map",
-  "static/js/1.6eb6405c.chunk.js": "/vaibhavdhoke/static/js/1.6eb6405c.chunk.js",
-  "static/js/1.6eb6405c.chunk.js.map": "/vaibhavdhoke/static/js/1.6eb6405c.chunk.js.map",
-  "runtime~main.js": "/vaibhavdhoke/static/js/runtime~main.48ffaf64.js",
-  "runtime~main.js.map": "/vaibhavdhoke/static/js/runtime~main.48ffaf64.js.map",
-  "static/css/main.11bcb9bc.chunk.css.map": "/vaibhavdhoke/static/css/main.11bcb9bc.chunk.css.map",
-  "index.html": "/vaibhavdhoke/index.html",
-  "precache-manifest.d5438d9b9302951d8d66a5654c3f3cf7.js": "/vaibhavdhoke/precache-manifest.d5438d9b9302951d8d66a5654c3f3cf7.js",
-  "service-worker.js": "/vaibhavdhoke/service-worker.js"
+  "main.css": "/static/css/main.11bcb9bc.chunk.css",
+  "main.js": "/static/js/main.aacd5c93.chunk.js",
+  "main.js.map": "/static/js/main.aacd5c93.chunk.js.map",
+  "static/js/1.6eb6405c.chunk.js": "/static/js/1.6eb6405c.chunk.js",
+  "static/js/1.6eb6405c.chunk.js.map": "/static/js/1.6eb6405c.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/main.11bcb9bc.chunk.css.map": "/static/css/main.11bcb9bc.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.05be963f9625f55616a127f416efbd1c.js": "/precache-manifest.05be963f9625f55616a127f416efbd1c.js",
+  "service-worker.js": "/service-worker.js"
 }
