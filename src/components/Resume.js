@@ -74,9 +74,12 @@ export default  class Resume extends Component {
 
             <div className="nine columns main-col">
 
-               <p>
+               <h2>
                {resumeData.skillsDescription}
-               </p>
+               </h2><br></br>
+               <h5 style={{ fontFamily:'Verdana'}} >
+               {resumeData.skillsExplain}
+               </h5><br></br><br></br>
 
    				<div className="bars">
 

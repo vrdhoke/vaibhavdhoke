@@ -82,7 +82,8 @@ let resumeData = {
 
       }
     ],
-    "skillsDescription":"Programming Languages",
+    "skillsDescription":"Technical Expertise",
+    "skillsExplain":"Always ready to try hands-on new and emerging technologies",
     "skills":[
       {
         "skillname":"JAVA"
@@ -101,6 +102,12 @@ let resumeData = {
       },
       {
         "skillname":"angular"
+      },
+      {
+        "skillname":"spring-mvc"
+      },
+      {
+        "skillname":"Hibernate"
       }
 
     ],
