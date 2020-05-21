@@ -1,7 +1,7 @@
 export default [
     {
       css:
-        'url(https://i.imgur.com/rZNNLiN.jpg)',
+        'url(https://i.imgur.com/LVnrjAH.jpg)',
       height: 300
     },
     {
