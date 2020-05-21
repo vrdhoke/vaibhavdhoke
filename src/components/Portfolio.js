@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+
+import Button from '@material-ui/core/Button';
 export default class Porfolio extends Component {
   render() {
     let resumeData = this.props.resumeData;
@@ -11,12 +13,15 @@ export default class Porfolio extends Component {
           {
             resumeData.portfolio && resumeData.portfolio.map((item)=>{
               return(
+                <div>
+                  
                 <a href={item.link} target="_blank">
                 <div className="columns portfolio-item">
                   <div className="item-wrap">
-                   
+
                       {/* <img src={`${item.imgurl}`} className="item-img"/> */}
                       <img style={{color:'#fff', height:'300px',width:'350px'}} src={item.imgurl}/>
+                      
                       <div className="overlay">
                         <div className="text-secondary portfolio-item-meta">
                           <h5>{item.name}</h5>
@@ -27,13 +32,14 @@ export default class Porfolio extends Component {
                 </div>
                 
                 </a>
-                
+                </div>
               )
             })
           }
           </div>
         </div>
       </div>
+      
   </section>
         );
   }

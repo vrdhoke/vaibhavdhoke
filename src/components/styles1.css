@@ -1,0 +1,95 @@
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, ubuntu,
+    roboto, noto, segoe ui, arial, sans-serif;
+  background: transparent;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: default;
+}
+
+#root {
+  
+  background: #f0f0f0;
+}
+
+.card1,
+.card2,
+.card3,
+.card4,
+.card5,
+.card6,
+.card7,
+.card8 {
+  border-radius: 5px;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  will-change: transform;
+}
+
+.card1 {
+  min-width: 9ch;
+  min-height: 9ch;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png);
+}
+
+.card2 {
+  min-width: 9ch;
+  min-height:9ch;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png);
+}
+
+.card3 {
+  opacity: 0.9;
+  min-width: 9ch;
+  min-height: 9ch;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png);
+}
+
+.card4 {
+  min-width: 9ch;
+  min-height: 9ch;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png);
+}
+.card5 {
+  min-width: 9ch;
+  min-height: 9ch;
+  background-image: url(https://www.excelsiortechnologies.com/img/about/node-js.png);
+}
+.card6 {
+    min-width: 9ch;
+    min-height: 9ch;
+    background-image: url(https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png);
+  }
+.card7 {
+    min-width: 9ch;
+    min-height: 9ch;
+    background-image: url(https://cdn.iconscout.com/icon/free/png-256/java-22-225997.png);
+}
+.card8 {
+    min-width: 9ch;
+    min-height: 9ch;
+    background-image: url(https://i2.wp.com/www.nuimedia.com/wp-content/uploads/2017/01/javascript-logo.png?ssl=1);
+}
+
+.container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

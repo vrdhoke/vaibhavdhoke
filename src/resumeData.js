@@ -141,7 +141,8 @@ let resumeData = {
       {
         "name":"The Adda",
         "description":"The Adda is a platform used to organize online groups that host in-person events for people with similar interests",
-        "imgurl":"images/portfolio/event.png"
+        "imgurl":"images/portfolio/event.png",
+        "link":"https://github.com/vrdhoke/The-Adda"
       },
       {
         "name":"Virtual Library System",

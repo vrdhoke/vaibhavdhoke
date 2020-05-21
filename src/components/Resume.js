@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Paralax from './Paralax';
 export default  class Resume extends Component {
   render() {
     let resumeData = this.props.resumeData;
@@ -91,12 +92,13 @@ export default  class Resume extends Component {
                       <span className={`bar-expand ${item.skillname.toLowerCase()}`}>
                       </span><em>{item.skillname}</em>
                       </li>
+                      
                     )
                   })
                 }
 
-   					</ul>
-
+   					</ul><br></br><br></br><br></br>
+             <Paralax/>
    				</div>
 
    			</div>
