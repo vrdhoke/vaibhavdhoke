@@ -1,12 +1,13 @@
 import React, { Component } from 'react';
 import Paralax from './Paralax';
+import Particles from 'react-particles-js';
 export default class Header extends Component {
   render() {
     let resumeData = this.props.resumeData;
     return (
       <React.Fragment>
       
-      <header id="home">
+      <header id="home ">
         
          <nav id="nav-wrap">
             <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
@@ -21,12 +22,13 @@ export default class Header extends Component {
                <li><a className="smoothscroll" href="#contact">Contact</a></li>
             </ul>
          </nav>
-        
+         
          <div className="row banner">
         
          
             <div className="banner-text">
                <h1 className="responsive-headline">{resumeData.name}</h1>
+               
                <h3 className="responsive-headline">Software Developer • Full-Stack Developer</h3><br></br>
                <h3 style={{color:'#fff', fontFamily:'sans-serif '}}>{resumeData.roleDescription}
                </h3>
@@ -37,6 +39,7 @@ export default class Header extends Component {
                     resumeData.socialLinks && resumeData.socialLinks.map(item =>{
                       return(
                               <li key={item.name}>
+                                
                                 <a href={item.url} target="_blank"><i className={item.className}></i></a>
                               </li>
                             )
@@ -44,6 +47,7 @@ export default class Header extends Component {
                     )
                   }
                </ul>
+               
                
             </div>
          </div>   
