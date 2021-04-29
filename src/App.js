@@ -12,6 +12,7 @@ import Album from './components/Album'
 class App extends Component {
   render() {
     return (
+      
       <div className="App">
         <Header resumeData={resumeData}/>
         <About resumeData={resumeData}/>
