@@ -23,12 +23,12 @@ let resumeData = {
         },
         {
           "name":"facebook",
-          "url":"https://www.facebook.com/dhoke.vaibhav58",
+          "url":"https://www.facebook.com/vaibhavdhoke1412",
           "className":"fa fa-facebook"
         },
         {
           "name":"Instagram",
-          "url":"https://www.instagram.com/d.h.o.k.e/",
+          "url":"https://www.instagram.com/vaibhavdhoke_/?hl=en",
           "className":"fa fa-instagram"
         }
 
@@ -125,6 +125,14 @@ let resumeData = {
         "link":"https://www.novartis.com/"
       },
       {
+        "name":"Container Orchestration with Kubernetes",
+        "description":"•	Developed 3 microservices (React, Flask, Node) and deployed pods(containers) on Kubernetes Cluster from Docker images"+
+        "• Designed CI/CD pipeline for building and deploying the Docker Images to AWS Kubernetes Cluster using Helm Chart "+
+        "• Achived horizontal pod autoscaling by metric server and load testing for 20,000 concurrent requests using apache bench",
+        "imgurl":"images/portfolio/Uber.png",
+        "link":"https://github.com/DevOps-FinalProject"
+      },
+      {
         "name":"Smart Organic Farming",
         "description":"Implemented an efficient and accurate system to encourage the organic farming and improving the living conditions of"+
         "farmers community by providing the institutional finance and required resources required for organic farming at right"+
@@ -149,22 +157,30 @@ let resumeData = {
         "description":"Developed an online library system that enables users to upload, download e-books, presentations and videos, create"+
         "forums and courses, and system generated suggestions",
         "imgurl":"images/portfolio/lib.jpg"
-      }
+      },
       
-
     ],
     "testimonials":[
       {
         "description":"Vaibhav's technical knowledge combined with his perpetual enthusiasm and energetic attitude make him stand out among his peer. He is a great person to work with. He not only delivers his own tasks but also influences others around him. ",
         "name":"Matjaz Jenezic, Solution Design Manager at Novartis"
       },
-      {
-        "description":"Vaibhav is a cheerful, hardworking person. I had the opportunity to work with him in a same team at Infosys and he would always encourage people around him and built a nice rapport with teammates. He is very strong technically and comes up with unconventional solutions to the complex business requirements. He is equally good at single handedly managing multiple projects.",
-        "name":"Nizam Syed, SAP Consultant at Infosys"
-      },
+      ,
       {
         "description":"One thing which always stand out for Vaibhav is his willingness to take the next challenge no matter which technology he works on. Thanks for the great work done for Novartis/Infosys. ",
         "name":"Nabheet Madan, Project Manager at Infosys"
+      },
+      {
+        "description":"Vaibhav worked as in front end developper intern under my mentorship at Spare-it. I enjoyed working with Vaibhav, who showed a great ability to integrate smoothly in the team and adapt to our team's practices. During his internship, Vaibhav made good process around React development and Agile team collaboration",
+        "name":"Laurent MEUNIER, CTO Spare-it"
+      },
+      {
+        "description":"Working with Vaibhav has been fantastic. He really likes solving tech problems doing whatever is required to find the solution. Team collaboration and communication, he knows how to do it very well.",
+        "name":"Daniel Carlos, DevOps Engineer at Pentalog"
+      },
+      {
+        "description":"Vaibhav is a cheerful, hardworking person. I had the opportunity to work with him in a same team at Infosys and he would always encourage people around him and built a nice rapport with teammates. He is very strong technically and comes up with unconventional solutions to the complex business requirements. He is equally good at single handedly managing multiple projects.",
+        "name":"Nizam Syed, SAP Consultant at Infosys"
       }
       
     ]
