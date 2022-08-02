@@ -207,7 +207,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: #aba9a9;
 }
 #about .profile-pic {
    position: relative;
@@ -271,8 +271,26 @@ ul#nav li.current a { color: #F06000; }
    border-bottom: 1px solid #E8E8E8;
 }
 #resume .info {
-   font: 16px/24px 'librebaskerville-italic', serif;
-   color: #6E7881;
+   font: 16px/30px 'librebaskerville-italic', serif;
+   color: #000000;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+#resume .achievements {
+   font: 17px/30px 'librebaskerville',Verdana;
+   color: #6a6868;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+#resume .edu {
+   font: 17px/30px 'librebaskerville',Verdana;
+   color: #6a6868;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+#resume .location {
+   font: 16px/30px 'librebaskerville-italic', serif;
+   color: #676464;
    margin-bottom: 18px;
    margin-top: 9px;
 }

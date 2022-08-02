@@ -15,12 +15,12 @@ export default class About extends Component {
             <div className="nine columns">
 
                <h2>About Me</h2>
-               <p>
+               <p style={{ fontFamily:'Verdana'}}>
                {
                  resumeData.aboutme1
                }
                </p>
-               <p>
+               <p style={{ fontFamily:'Verdana'}}>
                {
                  resumeData.aboutme
                }
