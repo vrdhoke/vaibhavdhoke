@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Full Stack Developer",
     "linkedinId":"https://www.linkedin.com/in/vaibhav-dhoke/",
     "skypeid": "Your skypeid",
-    "roleDescription": "An Enthusiastic and Highly Motivated Software Professional with over 4-Years of Software Development experience facilitating cutting Edge Engineering Solutions with a Diverse skill set and creative drive to Software Application Development.",
+    "roleDescription": "An Enthusiastic and Highly Motivated Software Professional with over 5-Years of Software Development experience facilitating cutting Edge Engineering Solutions with a Diverse skill set and creative drive to Software Application Development.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -33,7 +33,7 @@ let resumeData = {
         }
 
       ],
-    "aboutme":"Currently pursuing a Master of Science in Information Systems at Northeastern University with an emphasis on Application Engineering Development, Web Design and User Experience, Program Structures and Algorithms, Web Tools and Methods, Network Infrastructure and Cloud Computing",
+    "aboutme":"Masters of Science in Information Systems at Northeastern University with an emphasis on Application Engineering Development, Web Design and User Experience, Program Structures and Algorithms, Web Tools and Methods, Network Infrastructure and Cloud Computing",
     "aboutme1":"I believe there is no end to the number of skills one can develop and hence I keep learning and developing through every project, task and people I am associated with.",
     "address":"United States",
     "website":"https://www.linkedin.com/in/vaibhav-dhoke/",
@@ -57,16 +57,44 @@ let resumeData = {
     ],
     "work":[
       {
+        "CompanyName":"Olive AI, Inc",
+        "location":"Charlotte, North Carolina (Remote)",
+        "specialization":"Software Engineer II",
+        "MonthOfLeaving":"August 2021- ",
+        "YearOfLeaving":"August 2022",
+        "Achievements":[`• Built notification system by integrating Twilio SMS APIs which helps hospitals to notify patients about their future visits\n `,
+        `• Scaled lambdas by using reserved concurrency while processing patient messages from SQS and thereby resolving throttling\n`,
+        `• Introduced terraform in the team to automate the creation of infrastructure e.g EKS Cluster and 30 other AWS resources\n`,
+        `• Published messages to SNS topic to trigger serverless API through Lambda function and sent emails via SES\n`,
+        `• Built serverless API to send emails to patients via SES and published messages to SNS to trigger the emails`,
+        `• Mentored 2 junior developers by helping them with designing, development best practices and code reviews`
+        ]
+      },
+      {
+        "CompanyName":"Spare-it",
+        "location":"Boston, Massachusets",
+        "specialization":"Software Engineer",
+        "MonthOfLeaving":"August 2020- ",
+        "YearOfLeaving":"January 2021",
+        "Achievements":[`• Developed web application for monitoring the waste-tracking scale that increased the customer satisfaction by 80%\n `,
+        `• Implemented CI/CD pipeline using Jenkins which improved the flexibility and ability to ship new features\n`,
+        `• Developed RESTful APIs in NodeJs, Express deployed on unix servers that served data to our React front-end based on
+        dynamically chosen user inputs that handled over 50,000 concurrent requests\n`,
+        `• Leveraged auto scaling and load balancing 60,000 concurrent HTTP request and validated performance via Apache JMeter\n`
+        ]
+      },
+      {
         "CompanyName":"Infosys",
         "location":"Pune, India",
         "specialization":"Technology Analyst",
         "MonthOfLeaving":"January 2018 - ",
         "YearOfLeaving":"July 2019",
-        "Achievements":`• Implemented contract lifecycle management for complete lifecycle of master agreement and contract documents in an organization\n `,
-        "Achievements1":`• Developed dashboard for incident monitoring as part of Alcon (Novartis) team in Spring MVC Java Framework`,
-        "Achievements2":`• Incorporated security domain functional requirements using Agile development cycle in client website thereby
+        "Achievements":[`• Implemented contract lifecycle management for complete lifecycle of master agreement and contract documents in an organization\n `,
+        `• Developed dashboard for incident monitoring as part of Alcon (Novartis) team in Spring MVC Java Framework`,
+        `• Incorporated security domain functional requirements using Agile development cycle in client website thereby
         improving overall performance by 34% in deployments`,
-        "Achievements3":`• Mentored 15 new associates through training sessions and monitoring progress for an initial period of probation`
+        `• Mentored 15 new associates through training sessions and monitoring progress for an initial period of probation`
+      ]
       },
       {
         "CompanyName":"Infosys",
@@ -74,12 +102,12 @@ let resumeData = {
         "specialization":"Senior Systems Engineer",
         "MonthOfLeaving":"August 2015 - ",
         "YearOfLeaving":"December 2017",
-        "Achievements":"• Engaged in estimating, planning and refactoring software development projects and related tasks (Proof of Concept)",
-        "Achievements1":`• Gained firsthand experience with Node, React/Redux, Express, APIs, Git, Data Structures, Algorithms via
+        "Achievements":["• Engaged in estimating, planning and refactoring software development projects and related tasks (Proof of Concept)",
+        `• Gained firsthand experience with Node, React/Redux, Express, APIs, Git, Data Structures, Algorithms via
         projects code reviews and pair programming.`,
-        "Achievements2":`• Incorporated smooth automation into repetitive business tasks and lengthy processes using Python`,
-        "Achievements3":`• Performed unit testing, regression testing and prepared comprehensive technical specification for critical SAP objects`
-
+       `• Incorporated smooth automation into repetitive business tasks and lengthy processes using Python`,
+        `• Performed unit testing, regression testing and prepared comprehensive technical specification for critical SAP objects`
+      ]
       }
     ],
     "skillsDescription":"Technical Expertise",
