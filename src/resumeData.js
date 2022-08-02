@@ -33,7 +33,7 @@ let resumeData = {
         }
 
       ],
-    "aboutme":"An Enthusiastic and highly hotivated software professional with over 5-Years of software development experience facilitating cutting edge engineering solutions with a diverse skill set and creative drive to software application development.",
+    "aboutme":"An Enthusiastic and highly motivated software professional with over 5 years of software development experience facilitating cutting edge engineering solutions with a diverse skill set and creative drive to software application development.",
     "aboutme2":"Masters of Science in Information Systems at Northeastern University with an emphasis on Application Engineering Development, Web Design and User Experience, Program Structures and Algorithms, Web Tools and Methods, Network Infrastructure and Cloud Computing",
     "aboutme1":"I believe there is no end to the number of skills one can develop and hence I keep learning and developing through every project, task and people I am associated with.",
     "address":"United States",
