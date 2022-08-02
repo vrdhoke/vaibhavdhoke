@@ -33,7 +33,8 @@ let resumeData = {
         }
 
       ],
-    "aboutme":"Masters of Science in Information Systems at Northeastern University with an emphasis on Application Engineering Development, Web Design and User Experience, Program Structures and Algorithms, Web Tools and Methods, Network Infrastructure and Cloud Computing",
+    "aboutme":"An Enthusiastic and Highly Motivated Software Professional with over 5-Years of Software Development experience facilitating cutting Edge Engineering Solutions with a Diverse skill set and creative drive to Software Application Development.",
+    "aboutme2":"Masters of Science in Information Systems at Northeastern University with an emphasis on Application Engineering Development, Web Design and User Experience, Program Structures and Algorithms, Web Tools and Methods, Network Infrastructure and Cloud Computing",
     "aboutme1":"I believe there is no end to the number of skills one can develop and hence I keep learning and developing through every project, task and people I am associated with.",
     "address":"United States",
     "website":"https://www.linkedin.com/in/vaibhav-dhoke/",
