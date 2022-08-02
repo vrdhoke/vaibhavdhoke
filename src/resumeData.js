@@ -142,6 +142,18 @@ let resumeData = {
     ],
     "portfolio":[
       {
+        "name":"Olive AI",
+        "description":"Olive is the automation company creating the Internet of Healthcare. Addressing healthcare's most burdensome issues with intelligent automation, Olive shines a bright light that drives connections between siloed technology. She increases revenue, reduces costs and improves efficiency for hospitals, health systems and payers, so everyone can benefit from a healthier industry tomorrow.",
+        "imgurl":"images/portfolio/olive.jpeg",
+        "link":"https://oliveai.com/about-us/customer-stories/gundersen-improves-population-health-with-first-in-the-nation-olive-enabled-scalable-solution "
+      },
+      {
+        "name":"Spare-it",
+        "description":"Spare-it the first workplace platform for sustainability and compute workplace live data  to engage users in waste reduction challenges",
+        "imgurl":"images/portfolio/spareit.jpeg",
+        "link":"https://www.spare-it.com/"
+      },
+      {
         "name":"DAIMLER AG",
         "description":"Designed scalable, reliable and secure software architecture powering Internet Brands’s SaaS-based technology platform using a combination of Java, Node.JS, React.js and other development languages.",
         "imgurl":"images/portfolio/daimler.jpg",
@@ -180,13 +192,7 @@ let resumeData = {
         "description":"The Adda is a platform used to organize online groups that host in-person events for people with similar interests",
         "imgurl":"images/portfolio/event.png",
         "link":"https://github.com/vrdhoke/The-Adda"
-      },
-      {
-        "name":"Virtual Library System",
-        "description":"Developed an online library system that enables users to upload, download e-books, presentations and videos, create"+
-        "forums and courses, and system generated suggestions",
-        "imgurl":"images/portfolio/lib.jpg"
-      },
+      }
       
     ],
     "testimonials":[
