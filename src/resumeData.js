@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Full Stack Developer",
     "linkedinId":"https://www.linkedin.com/in/vaibhav-dhoke/",
     "skypeid": "Your skypeid",
-    "roleDescription": "An Enthusiastic and Highly Motivated Software Professional with over 5-Years of Software Development experience facilitating cutting Edge Engineering Solutions with a Diverse skill set and creative drive to Software Application Development.",
+    "roleDescription": "An Enthusiastic and highly motivated software professional with over 5-Years of Software Development experience facilitating cutting edge engineering solutions with a diverse skill set and creative drive to software application development.",
     "socialLinks":[
         {
           "name":"linkedin",
