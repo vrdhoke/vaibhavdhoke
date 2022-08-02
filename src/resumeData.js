@@ -41,7 +41,7 @@ let resumeData = {
     "education":[
       {
         "UniversityName":"Northeastern University ,Boston",
-        "subjects":"Relevant Courses: Application Engineering and Development, Web Design and User Experience, Program Structure and Algorithms, Web Tools",
+        "subjects":"Courses: Application Engineering and Development, DevOps methods and tools, Cloud Computing, Web Design and User Experience, Program Structure and Algorithms, Web Tools",
         "specialization":"Master of Science in Information System",
         "MonthOfPassing":"Aug",
         "YearOfPassing":"2021",
